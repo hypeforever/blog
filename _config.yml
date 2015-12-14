@@ -6,16 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: "Hype Forever: Dev Blog"
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Development blog of Hype Forever. We plan on posting regular updates
+  about the development progress & things we consider interesting. The blog is
+  currently in an early state, you really shouldn't be here yet :)
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# Social media
+facebook_group_name: hypeforever
+facebook_group_id: 126929554163825
+github_username: hypeforever
 
 # Build settings
 markdown: kramdown
