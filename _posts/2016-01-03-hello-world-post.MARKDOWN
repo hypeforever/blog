@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Hello World Post"
+title:  "Hello World!"
 date:   2016-01-03 14:48:23 +0100
 author: NeoMoonlighter
-categories: jekyll update
 ---
-Hello Everyone. This is a sample post in our Hype Forever Development Blog.
+Hello everyone!
+
+This is the first post of our new **Hype Forever Development Blog**.
