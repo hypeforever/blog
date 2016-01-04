@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello World!"
 date:   2016-01-03 14:48:23 +0100
-author: NeoMoonlighter
 ---
 Hello everyone!
 
@@ -13,3 +12,5 @@ project for the game
 
 Currently, there is a team working on the project, and we will have exciting
 updates coming soon, so stay tuned!
+
+*NeoMoonlighter & Luke*
