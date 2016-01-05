@@ -13,11 +13,12 @@ description: > # this means to ignore newlines until "baseurl:"
   about the development progress & things we consider interesting. The blog is
   currently in an early state, you really shouldn't be here yet :)
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://hypeforever.github.io" # the base hostname & protocol for your site
 
 # Social media
 facebook_group_name: hypeforever
 facebook_group_id: 126929554163825
+
 github_username: hypeforever
 
 # Build settings
