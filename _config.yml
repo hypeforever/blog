@@ -7,7 +7,7 @@
 
 # Site settings
 title: "Hype Forever: Dev Blog"
-email: your-email@domain.com
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Development blog of Hype Forever. We plan on posting regular updates
   about the development progress & things we consider interesting. The blog is
